@@ -1,0 +1,16 @@
+{
+  "name": "livechat-gabungan",
+  "version": "1.0.0",
+  "description": "Gabungan live chat YouTube dan TikTok dalam satu halaman",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tiktok-live-connector": "^2.5.0",
+    "youtube-chat": "^2.2.0"
+  }
+}

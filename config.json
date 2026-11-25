@@ -1,0 +1,18 @@
+{
+  "youtube": {
+    "liveId": "fXsQ50YwrDY",
+    "channelId": "",
+    "handle": "",
+    "apiKey": "AIzaSyAt25i5JfZCh1SuAC3ng61JRnhNzlLTOQM"
+  },
+  "tiktok": {
+    "username": "billy.ayaa"
+  },
+  "socialbuzz": {
+    "milestoneUrl": "https://sociabuzz.com/pro/tribe/total1/v1/5586754269"
+  },
+  "admin": {
+    "password": "123344",
+    "queueMax": 200
+  }
+}
